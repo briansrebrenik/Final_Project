@@ -1,0 +1,9 @@
+*.csv
+*.data
+*.db
+*.ndjson
+*.7z
+*.gephi
+*.gexf
+*.svg
+*.emb
