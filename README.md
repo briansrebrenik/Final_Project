@@ -1,2 +1,1 @@
-# Mod-5-Project
-# Final_Project
+# Fake News Detection through Ego Network Analysis
