@@ -16,4 +16,6 @@ Tools Used:
 
 * [NetworkX](https://networkx.github.io/)
 
+* [Keras](https://keras.io/)
+
 ![title](https://github.com/briansrebrenik/Final_Project/blob/master/network_screenshots/new2/screenshot_074045.png)
