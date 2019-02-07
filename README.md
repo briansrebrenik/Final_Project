@@ -1,7 +1,7 @@
 # Fake News Detection through Ego Network Analysis
 Data Sources:
 
-* "Fake News" data from [CredBank](http://compsocial.github.io/CREDBANK-data/)
+* "Fake News" data from [Credbank](http://compsocial.github.io/CREDBANK-data/)
 
 * Twitter Network Edges from [Luca Hammer](https://github.com/lucahammer)
 
