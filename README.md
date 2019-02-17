@@ -43,4 +43,7 @@ The node2vec framework learns low-dimensional representations for nodes in a gra
 Using profile descriptions for classification in a recurrent neural network. The Embedding Layer inside the network computes word embedding vectors. Word Embeddings are a type of vectorization strategy that computes word vectors from a text corpus by training a neural network, which results in a high-dimensional embedding space, where each word is in the corpus is a unique vector in that space. In this embedding space, the position of the vector relative to the other vectors captures semantic meaning.
 
 ![title](https://github.com/briansrebrenik/Final_Project/blob/master/presentation_screenshots/Final%20Project7.jpg)
+
+Combining features from Node2Vec and probabilities from word embeddings in an XGBoost and SVM Classifier.
+
 ![title](https://github.com/briansrebrenik/Final_Project/blob/master/presentation_screenshots/Final%20Project8.jpg)
