@@ -1,7 +1,8 @@
 # Fake News Detection through Ego Network Analysis
 
 ![Twitter Ego Network for Verified Users with Over 1 Million Followers](https://github.com/briansrebrenik/Final_Project/blob/master/network_screenshots/new2/screenshot_074045.png)
-![title](https://github.com/briansrebrenik/Final_Project/blob/master/network_screenshots/new2/final.png)
+<div style="text-align:center"><img src ="https://github.com/briansrebrenik/Final_Project/blob/master/network_screenshots/new2/final.png" /></div>
+
 Data Sources:
 
 * "Fake News" data from [Credbank](http://compsocial.github.io/CREDBANK-data/)
